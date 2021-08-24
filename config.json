@@ -1,13 +1,10 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://lucasb-blog.vercel.app/",
+  "site_title": "Blog do Lucas B.",
+  "site_description": "Blog onde busco compartilhar meus aprendizados na área da programação",
   "site_keywords": [
     {
       "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
     },
     {
       "keyword": "React"
@@ -15,5 +12,5 @@
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "https://github.com/KiwiDev808"
 }
